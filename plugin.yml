@@ -1,0 +1,8 @@
+name: Secret
+main: io.github.SuitorQ.SuitorQ
+version: 1.0
+authours: DirtDragon
+description: The length!
+commands:
+  quin:
+    description: Length.
